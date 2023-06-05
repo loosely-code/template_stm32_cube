@@ -1,0 +1,3 @@
+/home/dunyu/Workspace/STM32/template_stm32_cube/cmake-build-debug-arm-none-eabi-gcc/CMakeFiles/template_stm32_cube.elf.dir
+/home/dunyu/Workspace/STM32/template_stm32_cube/cmake-build-debug-arm-none-eabi-gcc/CMakeFiles/edit_cache.dir
+/home/dunyu/Workspace/STM32/template_stm32_cube/cmake-build-debug-arm-none-eabi-gcc/CMakeFiles/rebuild_cache.dir
